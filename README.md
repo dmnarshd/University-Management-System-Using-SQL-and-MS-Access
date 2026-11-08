@@ -72,8 +72,3 @@ The `Department` table requires a `staffNo` foreign key (manager), while `Academ
 - Dana Alzahid
 - Rafal Alqahtani
 - Daman Arshad
-
-## Course
-MISY 3331 — Advanced Database Systems
-Prince Mohammad Bin Fahd University
-Instructor: Dr. Shubashini Rathina Velu
